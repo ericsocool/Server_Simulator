@@ -1,0 +1,32 @@
+{
+  "devDependencies": {
+    "@types/express": "^5.0.2",
+    "@types/node": "^22.15.24",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "name": "typescript_fun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pcsclite": "^1.0.1",
+    "undici-types": "^6.21.0"
+  },
+  "scripts": {
+    "start": "node dist/ServerSimulator.js",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericsocool/Server_Simulator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericsocool/Server_Simulator/issues"
+  },
+  "homepage": "https://github.com/ericsocool/Server_Simulator#readme",
+  "description": ""
+}
