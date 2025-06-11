@@ -17,7 +17,7 @@
   },
   "scripts": {
     "start": "node dist/ServerSimulator.js",
-    "build": "tsc"
+//    "build": "tsc"
   },
   "repository": {
     "type": "git",
