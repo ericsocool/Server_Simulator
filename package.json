@@ -16,6 +16,7 @@
     "undici-types": "^6.21.0"
   },
   "scripts": {
+    "build": "tsc",
     "start": "node dist/ServerSimulator.js"
   },
   "repository": {
